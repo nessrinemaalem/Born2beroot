@@ -1,4 +1,8 @@
+
 #!/bin/bash
+
+
+kkkkkkkkkkkkkkkkkkkkk
 
 echo -ne "#Architecture: "; uname -a
 echo -ne "#CPU physical : "; grep -c ^processor /proc/cpuinfo
